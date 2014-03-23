@@ -7,11 +7,11 @@ This repository contains and overview and the material for developing the flood 
 
 ##Current Project Overview
 ###Project Summary
+ * Aims
  * Technical Development
  * Technology transfer
  * Sustainability models for a deployment
- * Aims
- 
+
 ###Aims
  * To create a blueprint for a community-led sensor network, initially aimed at flood detection, but applicable to any sensor network
  * Release of open hardware and software code, designs and schematics
@@ -20,7 +20,7 @@ This repository contains and overview and the material for developing the flood 
  
 ==============
 
-###Technical Summary
+###Technical Development
 ####Sensor device v1:
  * Ciseco RFu (Cisceco SRF Radio + ATMega 328)
  * Ciseco RFu development board
