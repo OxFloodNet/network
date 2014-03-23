@@ -6,6 +6,20 @@ Oxford Flood Network
 This repository contains and overview and the material for developing the flood network (not just code). For an introduction, read the [PDF guide to Oxford Flood Network](./blob/master/Oxford%20Flood%20Network.pdf)
 
 ##Current Project Overview
+###Project Summary
+ * Technical Development
+ * Technology transfer
+ * Sustainability models for a deployment
+ * Aims
+ 
+###Aims
+ * To create a blueprint for a community-led sensor network, initially aimed at flood detection, but applicable to any sensor network
+ * Release of open hardware and software code, designs and schematics
+ * Release of data under open licence
+ * Engage communities to build their own smart cities
+ 
+==============
+
 ###Technical Summary
 ####Sensor device v1:
  * Ciseco RFu (Cisceco SRF Radio + ATMega 328)
@@ -35,7 +49,8 @@ This repository contains and overview and the material for developing the flood 
 ####Device Management
  * TODO: Define spec
 
-###Project Summary
- * Technology transfer
- * Sustainability models for a deployment
- * Aims
+####Network Technology
+ * TODO: Demonstrate TV Whitespace
+ * TODO: Improve RF communication at ISM band 868MHz
+
+
