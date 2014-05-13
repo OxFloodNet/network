@@ -3,7 +3,7 @@ Oxford Flood Network
 
 *Building a citizen-led flood detection network with the Internet of Things & TV Whitespace*
 
-This repository contains and overview and the material for developing the flood network (not just code). For an introduction, read the [PDF guide to Oxford Flood Network](./blob/master/oxfloodnet-summary.pdf)
+This repository contains and overview and the material for developing the flood network (not just code). For an introduction, read the [PDF guide to Oxford Flood Network](./oxfloodnet-summary.pdf)
 
 ##Current Project Overview
 ###Project Summary
