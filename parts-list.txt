@@ -1,4 +1,4 @@
-Parts list:
+Parts list for board v2 (Obsolete)
 
 Sensor board:
 - Ciseco Powerpod regulators:  
